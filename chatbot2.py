@@ -8,7 +8,7 @@ def create_overlay(canvas, x, y, width, height):
 
 # Initialize the Tkinter window
 root = tk.Tk()
-root.title("AI Girlfriend Bot")
+root.title("AI ChatBot")
 root.geometry("400x600")
 
 # Load the background image
